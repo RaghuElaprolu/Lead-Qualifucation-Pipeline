@@ -1,0 +1,7 @@
+email,name,company,title,employees,industry,budget_usd,timeline_days,page_views,email_opens,demo_requested,notes
+priya@acmelogistics.com,Priya N,Acme Logistics,VP Operations,1200,logistics,150000,30,14,6,yes,Budget approved. Evaluating vendors to replace legacy tool.
+tom@gmail.com,Tom R,,Student,,,,,3,0,no,just browsing for a research paper
+dana@midco.io,Dana K,MidCo,Engineering Manager,120,software,20000,90,6,3,no,Pilot in Q1
+bad-email,Nobody,X,CEO,10,,,,0,0,no,
+priya@acmelogistics.com,Priya N,Acme Logistics,VP Operations,1200,logistics,150000,30,20,6,yes,Budget approved. Urgent.
+lee@tiny.co,Lee,Tiny Co,Founder,4,retail,2000,200,2,1,no,
